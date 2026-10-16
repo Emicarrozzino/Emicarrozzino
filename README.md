@@ -14,7 +14,5 @@ identity and built the landing.
 my team, campaigns out of Singapore), and 6 years of product across
 fintech, AI and travel.
 
-**Here** — The source of my portfolio, and the small things I build to
-test ideas.
 
 [emiliocarrozzino.com](https://www.emiliocarrozzino.com) · [X](https://x.com/carrozzinoemi)

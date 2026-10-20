@@ -7,8 +7,7 @@ I build products that tell stories, and I like building them myself.
 system in Flutter, with an agent that answers developers with working code.
 4 of the company's 14 products already run on it. (Private repo.)
 
-**Before** — Industrial design (bikes), art direction (a D&AD Pencil with
-my team, campaigns out of Singapore), and 6 years of product across
+**Before** — Industrial design, art direction, and 6 years of product across
 fintech, AI and travel.
 
 
